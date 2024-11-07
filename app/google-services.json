@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760168231521",
+    "project_id": "messenger-abc29",
+    "storage_bucket": "messenger-abc29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760168231521:android:2841bed16bb4d283697020",
+        "android_client_info": {
+          "package_name": "com.goryajnoff.messenger2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-AmbN8-r8S5fXI6nQrP_y8aY0CY_Azg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
